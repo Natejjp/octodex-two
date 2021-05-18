@@ -75,13 +75,13 @@ footer {
 }
 
 @media all and (min-width: 600px) {
-
   header nav:nth-child(2) ul li:nth-child(2) {
     display: none;
+  }
 }
 
 @media all and (min-width: 767px) {
-
   header nav:nth-child(2) ul li:nth-child(2) {
     display: list-item;
+  }
 }
